@@ -13,6 +13,6 @@ Regression Analysis with Lasso and Ridge Regression on Air Quality dataset
 
 
 ### choice of statistical analysis.jpg
-Cheat Sheet from https://medium.com/towards-data-science/demystifying-statistical-analysis-1-a-handy-cheat-sheet-b6229bf992cf
+Cheat Sheet from https://learncuriously.wordpress.com/2018/08/23/statistical-analysis-cheat-sheet/
 ### Classification.xlsx
 Comparison of the top 10 Classification Algorithms
