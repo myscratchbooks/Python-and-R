@@ -11,7 +11,7 @@ Using Random Foreest Algorithm with grid search and Feature Selection to predict
 ### R_Regression Analysis-air-quality.ipynb
 Regression Analysis with Lasso and Ridge Regression on Air Quality dataset
 ### Python_Regression_Analysis - California Housing.ipynb
-Regression Analysis with Lasso on California Housing datset
+Regression Analysis with Ridge and Lasso on California Housing datset
 
 
 ### choice of statistical analysis.jpg
