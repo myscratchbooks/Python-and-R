@@ -6,6 +6,8 @@ EDA Analysis on telecom customer churn  dataset using Python and Power BI Key In
 Using Artificial Neural Network Model in Python code to predict Heart disease.
 ### Python_Regression_Analysis - California Housing.ipynb
 Regression Analysis with Ridge and Lasso on California Housing datset
+### Python_Time-Series Analysis_Stock-Market.ipynb
+Using Auto_ARIMA and SARIMAX to predict Stock Price
 
 ### R_Classificaion_Breast_Cancer.ipynb
 Using Random Foreest Algorithm with grid search and Feature Selection to predict Breast Cancer
