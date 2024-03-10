@@ -7,6 +7,7 @@ Using Artificial Neural Network Model in Python code to predict Heart disease.
 ### Python_Regression_Analysis - California Housing.ipynb
 Regression Analysis with Ridge and Lasso on California Housing datset
 ### Python_TensorFlow_LSTM_Stock-Forecast.ipynb
+### Python_TensorFlow_LSTM_Stock-Forecast_v2.ipynb
 Using TensorFlow LSTM Model to predict Stock Fund Price
 ### Python_Time-Series Analysis_Stock-Market.ipynb
 Using Auto_ARIMA and SARIMAX to predict Stock Price
