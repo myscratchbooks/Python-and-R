@@ -8,6 +8,8 @@ Work in various machine learning models , including Logistic Regression, Naive B
 Comparison of K-Means and DBSCAN Clustering Method on Mall customer dataset using Python
 ### Python_EDA Analysis - telecom-customer-churn.ipynb
 EDA Analysis on telecom customer churn  dataset using Python and Power BI Key Influencers Visual
+### Python_H2O_AutoML - Employee attrition prediction.ipynb
+Employee attrition prediction using H2O autoML
 ### Python_Keras Deep Learning - Heart disease.ipynb
 Using Artificial Neural Network Model in Python code to predict Heart disease.
 ### Python_Logistic_Regression-ICU_Mortality.ipynb
