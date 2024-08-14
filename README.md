@@ -1,3 +1,5 @@
+### Python_AB Testing Cookie Cats game.ipynb
+Non-parametric A/B Testing on Collkie Cats game dataset
 ### Python_AutoKeras_binary classifier-ICU_Mortality.ipynb
 Using AutoML(AutoKeras) on Predicting In-Hospital Deaths in the ICU
 ### Python_AutoML(PyCaret) Multiclass Classification-DNA.ipynb
