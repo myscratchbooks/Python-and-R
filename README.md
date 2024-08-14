@@ -1,5 +1,5 @@
 ### Python_AB Testing Cookie Cats game.ipynb
-Non-parametric A/B Testing on Collkie Cats game dataset
+Non-parametric A/B Testing on Cookie Cats game dataset
 ### Python_AutoKeras_binary classifier-ICU_Mortality.ipynb
 Using AutoML(AutoKeras) on Predicting In-Hospital Deaths in the ICU
 ### Python_AutoML(PyCaret) Multiclass Classification-DNA.ipynb
@@ -27,6 +27,8 @@ Using TensorFlow LSTM Model to predict Stock Fund Price
 ### Python_Time-Series Analysis_Stock-Market.ipynb
 Using Auto_ARIMA and SARIMAX to predict Stock Price
 
+### R_AB testing Cookie Cats game.ipynb
+Non-parametric A/B Testing on Cookie Cats game dataset
 ### R_Classificaion_Breast_Cancer.ipynb
 Using Random Foreest Algorithm with grid search and Feature Selection to predict Breast Cancer
 ### R_Keras Deep Learning - Kyphosis.ipynb
