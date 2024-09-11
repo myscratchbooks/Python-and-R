@@ -18,6 +18,8 @@ Using Artificial Neural Network Model in Python code to predict Heart disease.
 Using logistic regression on Predicting In-Hospital Deaths in the ICU
 ### Python_Multi-Label Classification - Women Health Care.ipynb
 Using several approaches to demonstrate multi-label classifications prediction on Women Health Care dataset
+### Python_Multivariate Time Series forecast using LSTM - Appliances Energy Prediction.ipynb
+Using Bidirectional Stacked LSTM with Bayesian Optimization to demonstrate Multivariate Time Series forecast on Appliances Energy dataset
 ### Python_Multivariate Time Series forecast using VAR - Appliances Energy Prediction.ipynb
 Using Vector Autoregression to demonstrate Multivariate Time Series forecast on Appliances Energy dataset
 ### Python_Regression_Analysis - California Housing.ipynb
