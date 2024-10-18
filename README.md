@@ -16,6 +16,8 @@ Employee attrition prediction using H2O autoML
 Using Artificial Neural Network Model in Python code to predict Heart disease.
 ### Python_Logistic_Regression-ICU_Mortality.ipynb
 Using logistic regression on Predicting In-Hospital Deaths in the ICU
+### Python_Monte Carlo Simulation_Stock Price.ipynb
+Using Monte Carlo Simulation to predict close price of the stock
 ### Python_Multi-Label Classification - Women Health Care.ipynb
 Using several approaches to demonstrate multi-label classifications prediction on Women Health Care dataset
 ### Python_Multivariate Time Series forecast using LSTM - Appliances Energy Prediction.ipynb
