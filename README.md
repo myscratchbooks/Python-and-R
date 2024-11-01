@@ -34,6 +34,8 @@ Regression Analysis with Ridge and Lasso on California Housing datset
 Using TensorFlow LSTM Model to predict Stock Fund Price
 ### Python_Time-Series Analysis_Stock-Market.ipynb
 Using Auto_ARIMA and SARIMAX to predict Stock Price
+### Python_Wavelets_LSTM_Stock Price.ipynb
+Wavelets + LSTM - Predict Stock Price
 
 ### R_AB testing Cookie Cats game.ipynb
 Non-parametric A/B Testing on Cookie Cats game dataset
