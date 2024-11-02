@@ -38,7 +38,7 @@ Using TensorFlow LSTM Model to predict Stock Fund Price
 Using Auto_ARIMA and SARIMAX to predict Stock Price
 ### Python_Wavelets_LSTM_Stock Price.ipynb
 Wavelets + LSTM - Predict Stock Price
-  My article: https://medium.com/@simonleung5jobs/wavelets-lstm-predict-stock-price-with-python-5879932102de
+$\tab  My article: https://medium.com/@simonleung5jobs/wavelets-lstm-predict-stock-price-with-python-5879932102de $
 
 ### R_AB testing Cookie Cats game.ipynb
 Non-parametric A/B Testing on Cookie Cats game dataset
