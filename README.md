@@ -17,10 +17,10 @@ Using Artificial Neural Network Model in Python code to predict Heart disease.
 ### Python_Logistic_Regression-ICU_Mortality.ipynb
 Using logistic regression on Predicting In-Hospital Deaths in the ICU
 ### Python_MCMC_Simulation_Stock Price.ipynb
-Markov Chain Monte Carlo (MCMC) Simulation on Stock Price Forecasting
-  My article: https://medium.com/@simonleung5jobs/an-alternative-simulation-method-for-stock-price-forecasting-using-python-1bc1649edb99
+Markov Chain Monte Carlo (MCMC) Simulation on Stock Price Forecasting<br/> 
+My article: https://medium.com/@simonleung5jobs/an-alternative-simulation-method-for-stock-price-forecasting-using-python-1bc1649edb99
 ### Python_Monte Carlo Simulation_Stock Price.ipynb
-Using Monte Carlo Simulation to predict close price of the stock<br/>   
+Using Monte Carlo Simulation to predict close price of the stock<br/> 
 My article: https://medium.com/@simonleung5jobs/monte-carlo-simulation-on-stock-price-forecasting-using-python-7010e79a8b53
 ### Python_Multi-Label Classification - Women Health Care.ipynb
 Using several approaches to demonstrate multi-label classifications prediction on Women Health Care dataset
@@ -37,7 +37,7 @@ Using TensorFlow LSTM Model to predict Stock Fund Price
 ### Python_Time-Series Analysis_Stock-Market.ipynb
 Using Auto_ARIMA and SARIMAX to predict Stock Price
 ### Python_Wavelets_LSTM_Stock Price.ipynb
-Wavelets + LSTM - Predict Stock Price
+Wavelets + LSTM - Predict Stock Price<br/> 
 My article: https://medium.com/@simonleung5jobs/wavelets-lstm-predict-stock-price-with-python-5879932102de
 
 ### R_AB testing Cookie Cats game.ipynb
