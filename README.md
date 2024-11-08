@@ -38,7 +38,7 @@ Using TensorFlow LSTM Model to predict Stock Fund Price
 Using Auto_ARIMA and SARIMAX to predict Stock Price
 ### Python_Unscented Kalman Filter_Stock Price.ipynb
 Stock Price Prediction Using Unscented Kalman Filter<br/> 
-My article: 
+My article: https://medium.com/@simonleung5jobs/applying-the-unscented-kalman-filter-ukf-to-predict-stock-prices-8812e6511d7c
 ### Python_Wavelets_LSTM_Stock Price.ipynb
 Wavelets + LSTM - Predict Stock Price<br/> 
 My article: https://medium.com/@simonleung5jobs/wavelets-lstm-predict-stock-price-with-python-5879932102de
