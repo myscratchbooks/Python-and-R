@@ -28,6 +28,9 @@ Using several approaches to demonstrate multi-label classifications prediction o
 Using Bidirectional Stacked LSTM with Bayesian Optimization to demonstrate Multivariate Time Series forecast on Appliances Energy dataset
 ### Python_Multivariate Time Series forecast using VAR - Appliances Energy Prediction.ipynb
 Using Vector Autoregression to demonstrate Multivariate Time Series forecast on Appliances Energy dataset
+### Python_Particle filter - Stock Price.ipynb
+Test-Driving Particle Filter: Python Implementation on Stock Prices<br/> 
+My article: https://medium.com/@simonleung5jobs/test-driving-particle-filter-python-implementation-on-stock-prices-81c8dc3d842e
 ### Python_Regression_Analysis - California Housing.ipynb
 Regression Analysis with Ridge and Lasso on California Housing datset
 ### Python_TensorFlow_LSTM_Stock-Forecast.ipynb
