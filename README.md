@@ -33,6 +33,9 @@ Test-Driving Particle Filter: Python Implementation on Stock Prices<br/>
 My article: https://medium.com/@simonleung5jobs/test-driving-particle-filter-python-implementation-on-stock-prices-81c8dc3d842e
 ### Python_Regression_Analysis - California Housing.ipynb
 Regression Analysis with Ridge and Lasso on California Housing datset
+### Python_Risk Management in Financial Portfolio.ipynb
+calculate Value at Risk (VaR) and Conditional VaR (CVaR) using different methods (historical, parametric, and Monte Carlo simulation) using Python<br/>
+My article: https://medium.com/@simonleung5jobs/risk-management-in-financial-portfolio-710e270bf0e1
 ### Python_TensorFlow_LSTM_Stock-Forecast.ipynb
 ### Python_TensorFlow_LSTM_Stock-Forecast_v2.ipynb
 ### Python_TensorFlow_LSTM_Stock-Forecast_GPU.ipynb
