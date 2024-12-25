@@ -38,7 +38,7 @@ calculate Value at Risk (VaR) and Conditional VaR (CVaR) using different methods
 My article: https://medium.com/@simonleung5jobs/risk-management-in-financial-portfolio-710e270bf0e1
 ### Python_Stochastic Volatility Models and Statistical Simulation.ipynb
 Mean Reversion Models (Ornstein-Uhlenbeck Process, Heston Model) and Volatility Clustering (GJR-GARCH Model)<br/>
-My article: 
+My article: https://medium.com/@simonleung5jobs/stochastic-volatility-models-and-statistical-simulation-51ff813084b1
 ### Python_TensorFlow_LSTM_Stock-Forecast.ipynb
 ### Python_TensorFlow_LSTM_Stock-Forecast_v2.ipynb
 ### Python_TensorFlow_LSTM_Stock-Forecast_GPU.ipynb
