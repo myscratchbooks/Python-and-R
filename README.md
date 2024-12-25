@@ -36,6 +36,9 @@ Regression Analysis with Ridge and Lasso on California Housing datset
 ### Python_Risk Management in Financial Portfolio.ipynb
 calculate Value at Risk (VaR) and Conditional VaR (CVaR) using different methods (historical, parametric, and Monte Carlo simulation) using Python<br/>
 My article: https://medium.com/@simonleung5jobs/risk-management-in-financial-portfolio-710e270bf0e1
+### Python_Stochastic Volatility Models and Statistical Simulation.ipynb
+Mean Reversion Models (Ornstein-Uhlenbeck Process, Heston Model) and Volatility Clustering (GJR-GARCH Model)<br/>
+My article: 
 ### Python_TensorFlow_LSTM_Stock-Forecast.ipynb
 ### Python_TensorFlow_LSTM_Stock-Forecast_v2.ipynb
 ### Python_TensorFlow_LSTM_Stock-Forecast_GPU.ipynb
