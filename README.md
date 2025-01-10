@@ -39,6 +39,9 @@ My article: https://medium.com/@simonleung5jobs/risk-management-in-financial-por
 ### Python_Stochastic Volatility Models Simulation and Statistical Model.ipynb.ipynb
 Mean Reversion Models (Ornstein-Uhlenbeck Process, Heston Model) and Volatility Clustering (GJR-GARCH Model)<br/>
 My article: https://medium.com/@simonleung5jobs/stochastic-volatility-models-and-statistical-simulation-51ff813084b1
+### Python_Stochastic_Processes_Simulations.ipynb
+Simulations in Python (include Fractional Lévy Stable Motion and Rough Heston Model)<br/>
+My article: https://medium.com/@simonleung5jobs/a-brief-overview-of-stochastic-processes-in-finance-370e138137b4
 ### Python_TensorFlow_LSTM_Stock-Forecast.ipynb
 ### Python_TensorFlow_LSTM_Stock-Forecast_v2.ipynb
 ### Python_TensorFlow_LSTM_Stock-Forecast_GPU.ipynb
