@@ -6,7 +6,7 @@ Using AutoML(AutoKeras) on Predicting In-Hospital Deaths in the ICU
 Using Pycaret and kmer method to predict speceies's genome
 ### Python_Binary classification_Stroke-prediction.ipynb
 A comparative analysis of machine learning classifiers for stroke prediction<br/>
-My article:
+My article: https://medium.com/@simonleung5jobs/binary-classification-non-coding-and-coding-implementation-9017a2a540d7
 ### Python_Classification-Detecting-Parkinson-s-Disease.ipynb
 Work in various machine learning models , including Logistic Regression, Naive Bayes, KNN,Random Forest, Decision Tree, SVM, MLP, and XGBoost, have been employed and explored for PD detection
 ### Python_Cluster Analysis - Mall-Customers.ipynb
