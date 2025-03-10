@@ -4,6 +4,9 @@ Non-parametric A/B Testing on Cookie Cats game dataset
 Using AutoML(AutoKeras) on Predicting In-Hospital Deaths in the ICU
 ### Python_AutoML(PyCaret) Multiclass Classification-DNA.ipynb
 Using Pycaret and kmer method to predict speceies's genome
+### Python_Binary classification_Stroke-prediction.ipynb
+A comparative analysis of machine learning classifiers for stroke prediction<br/>
+My article:
 ### Python_Classification-Detecting-Parkinson-s-Disease.ipynb
 Work in various machine learning models , including Logistic Regression, Naive Bayes, KNN,Random Forest, Decision Tree, SVM, MLP, and XGBoost, have been employed and explored for PD detection
 ### Python_Cluster Analysis - Mall-Customers.ipynb
