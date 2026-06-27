@@ -13,6 +13,9 @@ Work in various machine learning models , including Logistic Regression, Naive B
 Comparison of K-Means and DBSCAN Clustering Method on Mall customer dataset using Python
 ### Python_EDA Analysis - telecom-customer-churn.ipynb
 EDA Analysis on telecom customer churn  dataset using Python and Power BI Key Influencers Visual
+### Python_Fractal_Rolling_Hurst_Regime_Detection_Pipeline_for_SP500.ipynb
+Build S&P 500 Fractal Rolling Hurst Regime Detection<br/> 
+My article: https://medium.com/@simonleung5jobs/how-fractional-calculus-entered-finance-d429b0629a35
 ### Python_H2O_AutoML - Employee attrition prediction.ipynb
 Employee attrition prediction using H2O autoML
 ### Python_Keras Deep Learning - Heart disease.ipynb
